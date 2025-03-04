@@ -8,3 +8,7 @@ This is the first document that our team has developed for the course. It detail
 
 ### [Alset IOT Hug the Lane V 1.0](https://github.com/Mj-Werner/CS347/blob/main/Draft%20Documentation/CS347-ALSETSoftwareDevelopmentDocumentV1.0.pdf)
 Updated first draft with improvements to the wording and design of the software development document.
+
+### [V 1.3 Alset IOT Hug the Lane](https://github.com/Mj-Werner/CS347/blob/main/Draft%20Documentation/V1.3%20ALSET%20Software%20Development%20Document.md)
+This update is the most substantial update to the document so far. Here we have added the system architecture and the functional and non-functional requirements for the vehicle. This also includes an
+update to the project scope.
